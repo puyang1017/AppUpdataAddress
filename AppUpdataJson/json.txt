@@ -1,9 +1,9 @@
 {
   "update": "Yes",
-  "new_version": "1.0.0",
+  "new_version": "1.0.1",
   "apk_file_url": "https://raw.githubusercontent.com/puyang1017/AppUpdataAddress/master/apk/qeeyou_acc_release.apk",
-  "update_log": "1，新增绝地求生。\r\n2，优化连接。\r\n3，智能分区选择。\r\n4，奇游手游加速器首发。\r\n5，修复已知bug。",
+  "update_log": "1，测试更新请不要点击升级。\r\n2，测试更新请不要点击升级。\r\n3，测试更新请不要点击升级。\r\n4，测试更新请不要点击升级。\r\n5，测试更新请不要点击升级。",
   "target_size": "12.52M",
-  "new_md5":"ce6175a8e3714649786ec3407811881a",
+  "new_md5":"9a15100461d8da4d6d8604495dbe5658",
   "constraint": false
 }
