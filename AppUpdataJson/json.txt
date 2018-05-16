@@ -4,6 +4,6 @@
   "apk_file_url": "https://raw.githubusercontent.com/puyang1017/AppUpdataAddress/master/apk/qeeyou_acc_release.apk",
   "update_log": "1，测试更新请不要点击升级。\r\n2，测试更新请不要点击升级。\r\n3，测试更新请不要点击升级。\r\n4，测试更新请不要点击升级。\r\n5，测试更新请不要点击升级。",
   "target_size": "12.52M",
-  "new_md5":"9a15100461d8da4d6d8604495dbe5658",
+  "new_md5":"71dd9ba0d153b718d55acc18a4c0feb9",
   "constraint": false
 }
